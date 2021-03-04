@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //find XML
+        //find XML Files
         theFace = findViewById(R.id.Face);
         theFace = theFace.getThisFace();
         spinner = findViewById(R.id.spinner);
