@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         RadioButton SkinButton = findViewById(R.id.SkinButton);
             //rand
         Button randomFace = findViewById(R.id.randomFace);
-            //seekBars
+            //seekBars//
         Red = findViewById(R.id.Red);
         Blue = findViewById(R.id.Blue);
         Green = findViewById(R.id.Green);
