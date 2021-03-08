@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     private SeekBar Green;
     private Spinner spinner;
     private List<String> hairChoices = new ArrayList<String>();
+    //comment
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
