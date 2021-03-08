@@ -1,7 +1,7 @@
 /*
 Author: @Megan Ly
  */
-
+//@MeganLy
 package com.example.hw2facemaker;
 
 import android.content.Context;
